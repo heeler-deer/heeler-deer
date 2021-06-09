@@ -3,7 +3,7 @@
 
 
 
-![my self portrait](https://w.wallhaven.cc/full/2e/wallhaven-2em38y.jpg)
+![my-self portrait](https://w.wallhaven.cc/full/2e/wallhaven-2em38y.jpg)
 
 - 🔭 I’m currently working on HNU
 - 🌱 I’m currently learning computer
