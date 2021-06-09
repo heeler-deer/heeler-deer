@@ -3,7 +3,7 @@
 
 
 
-![my portrait](https://w.wallhaven.cc/full/5d/wallhaven-5ddg65.jpg)
+![my portrait](https://github.com/heeler-deer/heeler-deer/blob/main/wallhaven-5ddg65.jpg)
 
 - 🔭 I’m currently working on HNU
 - 🌱 I’m currently learning computer
