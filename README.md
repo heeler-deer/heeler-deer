@@ -16,8 +16,8 @@
 - 如果你想支持我，欢迎通过以下方式付款：
 - <table><tr>
 <td>
-<img src="https://github.com/heeler-deer/heeler-deer/blob/main/wx.png?raw=true" width = "300" height = "300" div align=right /></td>
-<td><img src="https://github.com/heeler-deer/heeler-deer/blob/main/zfb.jpg?raw=true" width = "300" height = "300" div align=left /></td>
+<img src="https://github.com/heeler-deer/heeler-deer/blob/main/wx.png?raw=true" width = "300" height = "300" div align=right />
+<img src="https://github.com/heeler-deer/heeler-deer/blob/main/zfb.jpg?raw=true" width = "300" height = "300" div align=left /></td>
 </tr></table>
 
 
