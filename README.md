@@ -14,6 +14,7 @@
 - 😄 Pronouns: 小鹿
 - ⚡ Fun fact: lsp~
 - 如果你想支持我，欢迎通过以下方式付款：
-- ![wechat](https://github.com/heeler-deer/heeler-deer/blob/main/wx.png?raw=true)
-- ![alipay](https://github.com/heeler-deer/heeler-deer/blob/main/zfb.jpg?raw=true)
+<img src="https://github.com/heeler-deer/heeler-deer/blob/main/wx.png?raw=true" width = "150" height = "150" div align=right />
+<img src="https://github.com/heeler-deer/heeler-deer/blob/main/zfb.jpg?raw=true" width = "150" height = "150" div align=left />
+
 
