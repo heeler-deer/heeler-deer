@@ -15,5 +15,5 @@
 - ⚡ Fun fact: lsp~
 - 如果你想支持我，欢迎通过以下方式付款：
 - ![wechat](https://github.com/heeler-deer/heeler-deer/blob/main/wx.png?raw=true)
-- ![alipay](https://github.com/heeler-deer/heeler-deer/blob/main/zfb.png?raw=true)
+- ![alipay](https://github.com/heeler-deer/heeler-deer/blob/main/zfb.jpg?raw=true)
 
