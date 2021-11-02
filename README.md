@@ -1,6 +1,7 @@
 
 ### Hi there 👋 boys and girls!
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heeler-deer)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![my portrait](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3121617516,2313216348&fm=26&gp=0.jpg)
