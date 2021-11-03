@@ -12,7 +12,7 @@
 [Heeler-Deer](https://heeler-deer.github.io/), it's my logo.I'm a passionate self-taught student from China. My passion for computer lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/heeler-deer/absorbing/blob/main/giphy.gif?raw=true" width="500" height="320" />
   
 - 💼 contact me by heelerdeer@gmail.com :)
 - 💬 ask me about anything, i am happy to help;
