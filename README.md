@@ -5,7 +5,7 @@
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=heeler-deer.heeler-deer)
+![](https://komarev.com/ghpvc/?username=heeler-deer&color=green)
 
 <br />
 
