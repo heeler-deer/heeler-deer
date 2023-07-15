@@ -37,10 +37,17 @@
   
   
 ### My Github Stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=heeler-deer&show_icons=true&title_color=ffc857&icon_color=8ac926&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeler-deer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heeler-deer)](https://git.io/streak-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeler-deer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=heeler-deer&show_icons=true&title_color=ffc857&icon_color=8ac926&hide=issues&count_private=true&include_all_commits=true)
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heeler-deer)](https://git.io/streak-stats)
 
 
 
