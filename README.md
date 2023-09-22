@@ -47,6 +47,4 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=heeler-deer&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
-
 
