@@ -7,7 +7,7 @@
 
 <br />
 
-[Heeler-Deer](https://heeler-deer.github.io/), it's my logo. I'm a passionate self-taught student from China. My passion for computers lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+[I'm](https://heeler-deer.top/) a passionate self-taught student from China. My passion for computers lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
   <img align="right" alt="GIF" src="https://github.com/heeler-deer/absorbing/blob/main/giphy.gif?raw=true" width="500" height="320" />
